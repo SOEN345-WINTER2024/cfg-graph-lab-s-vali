@@ -11,6 +11,7 @@ protected void applyCustomTheme() { ... }
 1) CFG
 
 ![code2flow_aotaKM](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-s-vali/assets/91510546/9701a6eb-4d00-46ef-b1f3-dcd5dcdfe3b9)
+![IMG_2065](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-s-vali/assets/91510546/83f1d3ed-d961-4bcd-92e4-4311a36eaf99)
 
 2) Node coverage
 <br> TR = { 1, 2, 3, 4, 5, 6, 7, 8, 9 }
