@@ -1,8 +1,8 @@
 Sofia Valiante 40191897
 
 ## Basic Calculator
-![IMG_2064](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-s-vali/assets/91510546/6b6c2971-a45b-402a-8734-8453791c9939)
 ![IMG_2063](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-s-vali/assets/91510546/876ffc93-b3e2-44cc-a03c-539c272971a7)
+![IMG_2064](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-s-vali/assets/91510546/6b6c2971-a45b-402a-8734-8453791c9939)
 
 ## Android App
 Method:
