@@ -4,30 +4,7 @@ Sofia Valiante 40191897
 
 ## Android App
 Method:
-protected void applyCustomTheme() {
-        binding.commentCoordinatorLayout.setBackgroundColor(mCustomThemeWrapper.getBackgroundColor());
-        applyAppBarLayoutAndCollapsingToolbarLayoutAndToolbarTheme(binding.commentAppbarLayout, null, binding.commentToolbar);
-        binding.commentParentTitleTextView.setTextColor(customThemeWrapper.getPostTitleColor());
-        binding.commentDivider.setBackgroundColor(mCustomThemeWrapper.getDividerColor());
-        binding.commentCommentEditText.setTextColor(mCustomThemeWrapper.getCommentColor());
-        int secondaryTextColor = mCustomThemeWrapper.getSecondaryTextColor();
-        binding.commentCommentEditText.setHintTextColor(secondaryTextColor);
-        if (isReplying) {
-            parentTextColor = mCustomThemeWrapper.getCommentColor();
-        } else {
-            parentTextColor = mCustomThemeWrapper.getPostContentColor();
-        }
-        parentSpoilerBackgroundColor = parentTextColor | 0xFF000000;
-        binding.commentAccountNameTextView.setTextColor(mCustomThemeWrapper.getPrimaryTextColor());
-
-        if (typeface != null) {
-            binding.commentCommentEditText.setTypeface(typeface);
-        }
-        if (titleTypeface != null) {
-            binding.commentParentTitleTextView.setTypeface(titleTypeface);
-        }
-    }
-}
+protected void applyCustomTheme() { ... }
 
 1) CFG
 
